@@ -1,0 +1,9 @@
+
+.img{
+    width: 200px;
+    height: 200px;
+    background-image: url("Assets/Images/Julian.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
